@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 VN NightCoderzzz</h1>
 <p align="center">
-  Chào! Mình là một developer người Việt, thích đắm chìm trong <b>C#, Anti-DDoS systems, Minecraft mods</b>  
-  và những dự án code điên rồ lúc 2 giờ sáng 🌙☕
+  Chào! Mình là một dev làm về game, hack, web, thích code các ngôn ngữ trong <b>C#, javascript, java và html </b>  
+  và tôi thường đi ngủ trễ
 </p>
 
 ---
@@ -20,6 +20,7 @@
 | ![CSS](https://img.shields.io/badge/CSS-98%25-blue?style=flat-square&logo=css3) |
 | ![Swift](https://img.shields.io/badge/Swift-1%25-orange?style=flat-square&logo=swift) |
 | ![Python](https://img.shields.io/badge/Python-89%25-3776AB?style=flat-square&logo=python) |
+| ![Java](https://img.shields.io/badge/Java-39%25-3776AB?style=flat-square&logo=java) |
 | ![PHP](https://img.shields.io/badge/PHP-52%25-777BB4?style=flat-square&logo=php) |
 
 ---
@@ -29,18 +30,17 @@
 | Name | Description |
 |------|-------------|
 | [**SonicBounce**](https://github.com/VNNightCoderzzz/sonicbounce) | 🧨 Minecraft mod client forked from RinBounce + LiquidBounce, hỗ trợ bypass server Việt |
-| [**AntiDDoS Plugin**](https://github.com/VNNightCoderzzz/AntiDDoS-Minecraft) | 🛡️ Plugin bảo vệ server Minecraft khỏi flood TCP, handshake spam, botnet |
-| [**mutilanguage CLI**](https://github.com/VNNightCoderzzz/mutilanguage) | 🧠 Tool CLI hỗ trợ build và phân tích code đa ngôn ngữ, có AI support |
-| [**NightCoder License**](https://github.com/VNNightCoderzzz/NightCoder-License) | 🔏 Giấy phép phần mềm open-source độc quyền, có quyền cấm dùng nếu abuse |
+| [**AntiDDoS Plugin**](https://github.com/VNNightCoderzzz/AntiDDoS) | 🧨 Plugin bảo vệ server Minecraft khỏi flood TCP, handshake spam, botnet ( Chưa Ra ) |
+| [**PixelHub**](https://github.com/VNNightCoderzzz/PixelHub) | 🧨Roblox Hack |
 
 ---
 
 ## 📫 Contact Me
 
 - Discord: `nightcoderzzz`
-- Email: `youremail@example.com` (← thay bằng thật nha bro)
-- Website (nếu có): [https://yourdomain.dev](https://yourdomain.dev)
+- Email: `vnnightcoderzzz@getsonicwave.xyz`
+- Website (nếu có): [info.getsonicwave.xyz](https://info.getsonicwave.xyz)
 
 ---
 
-> _"Code cho đêm, deploy cho sáng. Làm xong bug liền, fix xong hết hồn."_ 😎
+> _"Code cho đêm, deploy cho sáng. Làm xong bug liền, fix xong hết hồn."_ 
