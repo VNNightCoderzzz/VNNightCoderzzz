@@ -39,7 +39,7 @@
 
 - Discord: `nightcoderzzz`
 - Email: `vnnightcoderzzz@getsonicwave.xyz`
-- Website (nếu có): [info.getsonicwave.xyz](https://info.getsonicwave.xyz)
+- Website: [info.getsonicwave.xyz](https://info.getsonicwave.xyz)
 
 ---
 
