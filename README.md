@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 VN NightCoderzzz</h1>
+<h1 align="center">👨‍💻 VNNightCoderzzz</h1>
 <p align="center">
   Chào! Mình là một dev làm về game, hack, web, thích code các ngôn ngữ trong <b>C#, javascript, java và html </b>  
   và tôi thường đi ngủ trễ
@@ -29,7 +29,7 @@
 
 | Name | Description |
 |------|-------------|
-| [**SonicBounce**](https://github.com/VNNightCoderzzz/sonicbounce) | 🧨 Minecraft mod client forked from RinBounce + LiquidBounce, hỗ trợ bypass server Việt |
+| [**NightBounce**](https://github.com/VNNightCoderzzz/NightBounce) | 🧨 Minecraft mod client forked from RinBounce + LiquidBounce, hỗ trợ bypass server Việt |
 | [**AntiDDoS Plugin**](https://github.com/VNNightCoderzzz/AntiDDoS) | 🧨 Plugin bảo vệ server Minecraft khỏi flood TCP, handshake spam, botnet ( Chưa Ra ) |
 | [**PixelHub**](https://github.com/VNNightCoderzzz/PixelHub) | 🧨Roblox Hack |
 
