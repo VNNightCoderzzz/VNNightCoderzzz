@@ -43,4 +43,4 @@
 
 ---
 
-> _"Code cho đêm, deploy cho sáng. Làm xong bug liền, fix xong hết hồn."_ 
+> _"code cho đêm, build cho sáng. bug là fix ngay, xong cái đi ngủ"_ 
